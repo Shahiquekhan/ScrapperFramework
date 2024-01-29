@@ -1,0 +1,13 @@
+D:\Projects\ScrapperFramework\Scrapper\bin\Debug\net8.0\RPE.deps.json
+D:\Projects\ScrapperFramework\Scrapper\bin\Debug\net8.0\RPE.dll
+D:\Projects\ScrapperFramework\Scrapper\bin\Debug\net8.0\RPE.pdb
+D:\Projects\ScrapperFramework\Scrapper\obj\Debug\net8.0\RPE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ScrapperFramework\Scrapper\obj\Debug\net8.0\RPE.AssemblyInfoInputs.cache
+D:\Projects\ScrapperFramework\Scrapper\obj\Debug\net8.0\RPE.AssemblyInfo.cs
+D:\Projects\ScrapperFramework\Scrapper\obj\Debug\net8.0\RPE.csproj.CoreCompileInputs.cache
+D:\Projects\ScrapperFramework\Scrapper\obj\Debug\net8.0\RPE.dll
+D:\Projects\ScrapperFramework\Scrapper\obj\Debug\net8.0\refint\RPE.dll
+D:\Projects\ScrapperFramework\Scrapper\obj\Debug\net8.0\RPE.pdb
+D:\Projects\ScrapperFramework\Scrapper\obj\Debug\net8.0\ref\RPE.dll
+D:\Projects\ScrapperFramework\Scrapper\obj\Debug\net8.0\RPE.csproj.AssemblyReference.cache
+D:\Projects\ScrapperFramework\Scrapper\bin\Debug\net8.0\appSettings.json
